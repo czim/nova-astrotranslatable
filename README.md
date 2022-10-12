@@ -6,7 +6,7 @@ It is made from a fork from [Optimist Digital's](https://github.com/optimistdigi
 
 ## Requirements
 
-- `laravel/nova: ^2.9 || ^3.0`
+- `laravel/nova: ^2.9 || ^3.0 || ^4.0`
 - `astrotomic/laravel-translatable: ^11.0`
 
 ## Features
